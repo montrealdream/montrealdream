@@ -24,6 +24,12 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 
 ---
+# Dự án tiêu biểu
+| Project       | Kiểu dự án    |   Công nghệ   |   Ghi chú
+| ------------- |:-------------:|:-------------:|:-------------:|
+| [Book Store](https://github.com/montrealdream/book-management-fullstack-ssr)    | Full Stack      | [![My Skills](https://skillicons.dev/icons?i=html,scss)](https://skillicons.dev)
+
+---
 # Các dự án đã làm
 | Project       | Kiểu dự án    |   Công nghệ   |   Ghi chú
 | ------------- |:-------------:|:-------------:|:-------------:|
