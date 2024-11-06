@@ -39,6 +39,7 @@
 | [Admin](https://github.com/tuforward/admin-full-page)      | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=pug,scss,javascript)](https://skillicons.dev) | Chuẩn BEM, Trang quản trị
 | [Todo App V1](https://github.com/tuforward/todo-app-firebase)      | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,firebase)](https://skillicons.dev) | Chuẩn BEM, Real Time Database Firebase
 | [Todo App With Authen](https://github.com/tuforward/todo-app-with-auth)      | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=html,scss,javascript,firebase)](https://skillicons.dev) | Chuẩn BEM, Real Time Database Firebase, Authen Firebase
+| [Chat App](https://github.com/montrealdream/chat-app-with-firebase)      | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,firebase)](https://skillicons.dev) | Chuẩn BEM, Real Time Database Firebase, Authen Firebase
 
 ---
 # Các package đã làm
