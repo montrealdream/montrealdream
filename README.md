@@ -64,6 +64,8 @@
 ---
 #### [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://skillicons.dev)  [HỌC EXPRESS JS](https://github.com/montrealdream/learn-expressjs)
 
+#### [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  [HỌC REACT JS](https://github.com/montrealdream/Learn-ReactJs)
+
 #### [![My Skills](https://skillicons.dev/icons?i=regex)](https://skillicons.dev)  [HỌC REGEX](https://github.com/tuforward/Learn-Regex)
 
 #### [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [HỌC DOCKER](https://github.com/tuforward/docker-cheat-sheet)
