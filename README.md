@@ -47,6 +47,7 @@
 | Package       | Kiểu dự án    |   Công nghệ   |   Ghi chú
 | ------------- |:-------------:|:-------------:|:-------------:|
 | [Alert](https://github.com/tuforward/package-alert)    | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev) | Chuẩn BEM
+| [Modal Confirm](https://github.com/montrealdream/Package-Modal-Confirm)    | FrontEnd      | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev) | Chuẩn BEM
 
 ---
 ### [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) HỌC JAVASCRIPT
