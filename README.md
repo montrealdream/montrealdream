@@ -66,7 +66,7 @@
 #### [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://skillicons.dev)  [HỌC EXPRESS JS](https://github.com/montrealdream/learn-expressjs)
 
 #### [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  [HỌC REACT JS](https://github.com/montrealdream/Learn-ReactJs) 
-- [TODO ĐƠN GIẢN DÙNG REACT](https://github.com/montrealdream/todo-react-no-db)
+- [TODO ĐƠN GIẢN DÙNG REACT KHÔNG CÓ KẾT HỢP DATABASE](https://github.com/montrealdream/todo-react-no-db)
 
 #### [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)  [HỌC ANGULAR JS](https://github.com/montrealdream/Learn-Angular-100days)
 
