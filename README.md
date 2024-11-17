@@ -67,6 +67,8 @@
 
 #### [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  [HỌC REACT JS](https://github.com/montrealdream/Learn-ReactJs)
 
+#### [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)  [HỌC ANGULAR JS](https://github.com/montrealdream/Learn-Angular-100days)
+
 #### [![My Skills](https://skillicons.dev/icons?i=regex)](https://skillicons.dev)  [HỌC REGEX](https://github.com/tuforward/Learn-Regex)
 
 #### [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [HỌC DOCKER](https://github.com/tuforward/docker-cheat-sheet)
