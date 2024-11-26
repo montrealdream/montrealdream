@@ -51,7 +51,7 @@
 
 ---
 ### [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) HỌC JAVASCRIPT
--   [Phần 1](https://github.com/tuforward/learn-javascript-level-00)
+-   [Khái niệm Javascript](https://github.com/montrealdream/javascript-concept)
 -   [Phần 2](https://github.com/tuforward/learn-javascript-level-01)
 -   [Phần 3](https://github.com/tuforward/learn-javascript-level-02)
 -   [Phần 4](https://github.com/tuforward/learn-javascript-level-03)  
