@@ -62,6 +62,7 @@
 
 #### [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  [HỌC REACT JS](https://github.com/montrealdream/Learn-ReactJs) 
 - [useState Example](https://github.com/montrealdream/todo-react-no-db)
+- [useEffect Example && Skeleton](https://github.com/montrealdream/reactjs-useEffect-example)
 
 #### [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)  [HỌC ANGULAR JS](https://github.com/montrealdream/Learn-Angular-100days)
 
