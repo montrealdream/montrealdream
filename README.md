@@ -28,7 +28,7 @@
 | Project       | Kiểu dự án    |   Công nghệ   |   Ghi chú
 | ------------- |:-------------:|:-------------:|:-------------:|
 | [Book Store](https://github.com/montrealdream/book-management-fullstack-ssr)    | Full Stack      | [![My Skills](https://skillicons.dev/icons?i=express,mongodb)](https://skillicons.dev)
-| [eCommerce](https://github.com/montrealdream/eCommerce-ExpressJS)    | BackEnd RestAPI  | [![My Skills](https://skillicons.dev/icons?i=express,mongodb)](https://skillicons.dev)
+| [Music App](https://github.com/montrealdream/music-app-typescript)    | BackEnd RestAPI  | [![My Skills](https://skillicons.dev/icons?i=express,mongodb)](https://skillicons.dev)
 
 ---
 # Các dự án đã làm
