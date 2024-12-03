@@ -68,6 +68,7 @@
 - [useEffect Example && Skeleton](https://github.com/montrealdream/reactjs-useEffect-example)
 - [useReducer useContext Example](https://github.com/montrealdream/reactjs-useReducer-example)
 - [Route Example](https://github.com/montrealdream/reactjs-route-example)
+- [Redux Example](https://github.com/montrealdream/reactjs-redux-example)
 
 #### [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)  [HỌC ANGULAR JS](https://github.com/montrealdream/Learn-Angular-100days)
 
