@@ -28,9 +28,10 @@
 | Project       | Kiểu dự án    |   Công nghệ   |   Ghi chú
 | ------------- |:-------------:|:-------------:|:-------------:|
 | [Book Store](https://github.com/montrealdream/book-management-fullstack-ssr)    | Full Stack      | [![My Skills](https://skillicons.dev/icons?i=js,express,mongodb)](https://skillicons.dev)
-| [Music App](https://github.com/montrealdream/music-app-typescript)    | BackEnd RestAPI  | [![My Skills](https://skillicons.dev/icons?i=ts,express,mongodb)](https://skillicons.dev)
-| [Task Management](https://github.com/montrealdream/task-management-js)    | BackEnd RestAPI  | [![My Skills](https://skillicons.dev/icons?i=js,express,mongodb)](https://skillicons.dev)
-| [Task Management](https://github.com/montrealdream/task-management-ts)    | BackEnd RestAPI  | [![My Skills](https://skillicons.dev/icons?i=ts,express,mongodb)](https://skillicons.dev)
+| [Music App](https://github.com/montrealdream/music-app-typescript)    | BackEnd | [![My Skills](https://skillicons.dev/icons?i=ts,express,mongodb)](https://skillicons.dev)
+| [Product Management](https://github.com/montrealdream/product-management)    | BackEnd | [![My Skills](https://skillicons.dev/icons?i=ts,express,mongodb)](https://skillicons.dev) | RestAPI
+| [Task Management](https://github.com/montrealdream/task-management-js)    | BackEnd | [![My Skills](https://skillicons.dev/icons?i=js,express,mongodb)](https://skillicons.dev) | RestAPI
+| [Task Management](https://github.com/montrealdream/task-management-ts)    | BackEnd | [![My Skills](https://skillicons.dev/icons?i=ts,express,mongodb)](https://skillicons.dev) | RestAPI
 
 ---
 # Các dự án đã làm
